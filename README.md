@@ -1,5 +1,5 @@
 # Gerador-de-senhas-
-Gerador de Senhas FortesEste é um projeto simples em Python para gerar senhas fortes e seguras. As senhas geradas podem incluir letras maiúsculas, letras minúsculas, números e caracteres especiais, garantindo um alto nível de segurança.FuncionalidadesGeração de senhas com comprimento personalizado.Inclusão de letras maiúsculas, minúsculas, números e caracteres especiais.Fácil de usar e personalizar.RequisitosPython 3.xInstalaçãoClone o repositório para a sua máquina local usando:git clone https://github.com/seu-usuario/gerador-de-senhas-fortes.git
+Gerador de Senhas FortesEste é um projeto simples em Python para gerar senhas fortes e seguras. As senhas geradas podem incluir letras maiúsculas, letras minúsculas, números e caracteres especiais, garantindo um alto nível de segurança.FuncionalidadesGeração de senhas com comprimento personalizado.Inclusão de letras maiúsculas, minúsculas, números e caracteres especiais.Fácil de usar e personalizar.RequisitosPython 3.xInstalaçãoClone o repositório para a sua máquina local usando:git clone https://github.com/Emerson10110/gerador-de-senhas-.git
 cd gerador-de-senhas-fortesUsoPara usar o gerador de senhas, você pode executar o script principal gerador_de_senhas.py:python gerador_de_senhas.pyExemplo de Uso# Importa o módulo gerador
 from gerador_de_senhas import gerar_senha
 
