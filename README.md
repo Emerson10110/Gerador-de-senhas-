@@ -5,7 +5,7 @@
 
 Um projeto em Python para gerar senhas seguras, customizáveis e difíceis de quebrar! As senhas podem incluir uma combinação de letras maiúsculas, letras minúsculas, números e caracteres especiais, atendendo a diferentes níveis de segurança.
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades:
 
 - **Comprimento Personalizável** 📏: Escolha o comprimento da sua senha.
 - **Opções de Caracteres** 🔠🔢: Personalize para incluir letras maiúsculas, minúsculas, números e/ou caracteres especiais.
@@ -13,12 +13,12 @@ Um projeto em Python para gerar senhas seguras, customizáveis e difíceis de qu
 
 ## 🚀 Começando
 
-### ✅ Pré-requisitos
+### ✅ Pré-requisitos:
 
 Para rodar este projeto, você precisa ter:
 - **Python 3.x** instalado.
 
-### 📥 Instalação
+### 📥 Instalação:
 
 1. Clone o repositório para sua máquina local:
    ```bash
@@ -35,7 +35,7 @@ Para usar o gerador de senhas, execute o script **`gerador_de_senhas.py`** diret
 python gerador_de_senhas.py
 ```
 
-### Exemplo de Uso
+### Exemplo de Uso:
 
 Abaixo um exemplo simples de como gerar uma senha usando o módulo `gerador_de_senhas`:
 
@@ -48,7 +48,7 @@ senha = gerar_senha(tamanho=12)
 print(f'Sua senha forte gerada é: {senha}')
 ```
 
-### 🔧 Personalização
+### 🔧 Personalização:
 
 Você pode configurar o gerador de senhas ajustando os parâmetros diretamente na função `gerar_senha` no arquivo `gerador_de_senhas.py`. Aqui estão os parâmetros disponíveis:
 
